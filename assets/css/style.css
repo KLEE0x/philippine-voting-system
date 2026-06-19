@@ -7,11 +7,9 @@
     --text: #172033;
     --muted: #65748b;
     --border: #e3e9f3;
-    
-    /* The Brand-New Orange Accent Theme */
-    --primary: #ea580c;        /* Electric Orange */
-    --primary-dark: #b85209;   /* Deep Orange burnt */
-    --primary-soft: #ffedd5;   /* Soft Orange Tint */
+    --primary: #ea580c;        
+    --primary-dark: #b85209;   
+    --primary-soft: #ffedd5;   
     --navy: #111b31;
     --navy-2: #1d2b4a;
     --accent-yellow: #facc15;
@@ -62,9 +60,9 @@ small { color: var(--muted); line-height: 1.45; }
 .logo-title, .brand h2 { margin: 0; font-size: 21px; font-weight: 900; letter-spacing: -0.02em; }
 .logo-caption, .brand p { margin: 2px 0 0; color: var(--muted); font-size: 12px; font-weight: 650; }
 
-/* Landing page (PREMIUM BLACK AND ORANGE THEME) */
+
 .landing-body {
-    background: #0b0f19 !important; /* Deep space black */
+    background: #0b0f19 !important;
     color: #f8fafc !important;
 }
 .landing-nav {
@@ -175,7 +173,6 @@ small { color: var(--muted); line-height: 1.45; }
 .feature-icon { width: 48px; height: 48px; display: grid; place-items: center; border-radius: 15px; color: #fff; background: linear-gradient(135deg, var(--primary), #ff7823); box-shadow: 0 14px 28px rgba(234,88,12,0.2); font-size: 22px; }
 .landing-footer { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding: 28px clamp(18px, 5vw, 72px); border-top: 1px solid rgba(255,255,255,0.08); color: #64748b; font-size: 13px; }
 
-/* Login (DARK MODE & ORANGE ACCENTS) */
 .login-body {
     min-height: 100vh;
     display: grid;
