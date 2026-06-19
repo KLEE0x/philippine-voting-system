@@ -1,8 +1,8 @@
 PROJECT NAME
-Philippine Voting Management System (PVMS)
+VOTEHUB - Philippine Voting System 
 
 DESCRIPTION
-PVMS is a PHP and MySQL voting management system created for school project demonstration. It is inspired by the voting process in the Philippines, but it is not an official COMELEC platform. The system includes role-based access, voter records, candidate and position management, ballot submission, vote counting, public results, and audit logs.
+VH is a PHP and MySQL voting management system created for school project demonstration. It is inspired by the voting process in the Philippines, but it is not an official COMELEC platform. The system includes role-based access, voter records, candidate and position management, ballot submission, vote counting, public results, and audit logs.
 
 MERGED LOVABLE UI DESIGN
 This updated version uses the Lovable-generated VoteWise/PVMS frontend as visual reference. The React/Tailwind design was converted into plain PHP, HTML, CSS, and basic JavaScript so it can run directly in XAMPP without npm, Vite, React, TypeScript, or Tailwind build commands.
